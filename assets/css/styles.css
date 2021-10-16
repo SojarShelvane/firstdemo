@@ -168,3 +168,9 @@ header {
       margin: 0 auto;
     }
   }
+
+/* adding css for body tag by sojar*/
+#myBodyCSS {
+	background: red;
+	color:green;
+}
