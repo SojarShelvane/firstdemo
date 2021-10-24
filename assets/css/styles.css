@@ -174,3 +174,28 @@ header {
 	background: red;
 	color:green;
 }
+
+    .img{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height:400px;
+    }
+    .param{
+      
+    text-align: center;
+
+    }
+.button{
+    /* width: 106%; */
+    border-color: red!important;
+    border: solid;
+    display: inline;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 3px 16px 3px 16px;
+    margin: 0px;
+    /* height: 20px; */
+    text-align: center !important;
+    font-size: 19px;
+}
